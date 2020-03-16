@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 This should be the final one
+
