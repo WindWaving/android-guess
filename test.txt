@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I changed test locally
+=======
+I change the file remotely
+>>>>>>> fcb1304280360cef9a7debdac3e9be05e1f8dfd5
